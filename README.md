@@ -1774,9 +1774,9 @@ local library = {
 		easingDirection = Enum.EasingDirection.Out
 	},
 	colors = {
-		main = Color3.fromRGB(20, 90, 50),
+		main = Color3.fromRGB(46, 204, 113),
 		background = Color3.fromRGB(40, 40, 40),
-		outerBorder = Color3.fromRGB(15, 15, 15),
+		outerBorder = Color3.fromRGB(46, 204, 113),
 		innerBorder = Color3.fromRGB(73, 63, 73),
 		topGradient = Color3.fromRGB(35, 35, 35),
 		bottomGradient = Color3.fromRGB(29, 29, 29),
