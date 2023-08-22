@@ -7708,7 +7708,7 @@ library.W = library.CreateWindow
 local Wait = library.subs.Wait
 
 local PepsiUi = library:CreateWindow({
-    Name = "Nagi Hub",
+    Name = "Nagi Hub Premium Script",
     Theme = {
         Image = "rbxassetid://7483871523",
         Info = "Info",
